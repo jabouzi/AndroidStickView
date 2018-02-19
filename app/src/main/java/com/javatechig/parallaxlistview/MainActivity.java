@@ -9,6 +9,10 @@ import android.widget.AbsListView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
+
+import com.google.android.gms.maps.GoogleMap;
+import com.google.android.gms.maps.MapView;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -24,7 +28,8 @@ public class MainActivity extends ActionBarActivity {
 
     private TextView stickyView;
     private ListView listView;
-    private View heroImageView;
+    private MapView mapView;
+    GoogleMap map;
 
     private View stickyViewSpacer;
 
@@ -37,8 +42,12 @@ public class MainActivity extends ActionBarActivity {
 
         /* Initialise list view, hero image, and sticky view */
         listView = (ListView) findViewById(R.id.listView);
-        heroImageView = findViewById(R.id.heroImageView);
+        mapView = (MapView) findViewById(R.id.mapview);
         stickyView = (TextView) findViewById(R.id.stickyView);
+
+        map = mapView.getMap();
+//        map.getUiSettings().setMyLocationButtonEnabled(false);
+//        map.setMyLocationEnabled(true);
 
         /* Inflate list header layout */
         LayoutInflater inflater = (LayoutInflater) getSystemService(Context.LAYOUT_INFLATER_SERVICE);
@@ -70,7 +79,7 @@ public class MainActivity extends ActionBarActivity {
                     stickyView.setY(Math.max(0, heroTopY + topY));
 
                     /* Set the image to scroll half of the amount that of ListView */
-                    heroImageView.setY(topY * 0.5f);
+//                    heroImageView.setY(topY * 0.5f);
                 }
             }
         });

@@ -2,32 +2,130 @@
 <items version="2" >
 
     <item
-        jar="/Users/Neel/AndroidStudioProjects/Parallax-List-View-Header/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        is-multidex="false"
+        jar="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.1/jars/classes.jar"
         jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="34375e2adbbe36bc39f2b5fae55d549b9efc77e6">
+        <dex dex="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.1_7306ff62460dd0914ceaa2725f21e06ca96556ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a3ebac72ca6befe2e900427505dbb3dd58a5ebbf">
+        <dex dex="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.1_5f2a6ab071bc893755e4841fa20db5c4cd06fd86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="aa3f026e88b5606be5cb0c7be5cf224489ede2bf">
+        <dex dex="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.0.1_247c6ee32e6658550b56dc2ab6a9d5dc2f0bcad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
         revision="21.1.2"
         sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="/Users/Neel/AndroidStudioProjects/Parallax-List-View-Header/app/build/intermediates/pre-dexed/debug/classes-48671a141800c072be5ccb622f74383fa8bed3b3.jar" />
+        <dex dex="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_02b21cb003998a3654a83f39b6cb0beb1c63d91f.jar" />
     </item>
     <item
-        jar="/Users/Neel/AndroidStudioProjects/Parallax-List-View-Header/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        is-multidex="false"
+        jar="/Users/jabousk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
         jumboMode="false"
+        optimize="true"
         revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/Users/Neel/AndroidStudioProjects/Parallax-List-View-Header/app/build/intermediates/pre-dexed/debug/classes-b96cc383faf1901031b68866b3191c69e3c33021.jar" />
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_9396b8682da05ecc3ce3794af80bbb1ad3704f74.jar" />
     </item>
     <item
-        jar="/Users/Neel/AndroidStudioProjects/Parallax-List-View-Header/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        is-multidex="false"
+        jar="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.1/jars/classes.jar"
         jumboMode="false"
+        optimize="true"
         revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/Users/Neel/AndroidStudioProjects/Parallax-List-View-Header/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-59d324f55defaf4cfcbfa3e7455af87109e7b306.jar" />
+        sha1="ffc3c6fc861f04d45835c9eac5cec10acc180d55">
+        <dex dex="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.1_c526b5ea8f2d364cdc9b0d54821c070a1d7b53a8.jar" />
     </item>
     <item
-        jar="/Applications/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        is-multidex="false"
+        jar="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.1/jars/classes.jar"
         jumboMode="false"
+        optimize="true"
         revision="21.1.2"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/Users/Neel/AndroidStudioProjects/Parallax-List-View-Header/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-6658c117293958a7383bcbb346a57fefebf27ee4.jar" />
+        sha1="e51f4e3317456544915089185a40f4883addbdf1">
+        <dex dex="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.0.1_4056c9d689d3d8491da2c894a66954532fd80190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.0_87d03a799ecea6b027d40bad893d6cedb2bc53fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d01902a80cb52c283941b014b1ad4d466402ac0a">
+        <dex dex="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.1_fb0a2fb35d8c3b2efe5ea087714f38e30dabe19d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b94d84286db4c24557b661015bc67497444a4071">
+        <dex dex="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.1_b5ce2c3dcffed39c740b3b99c8cab1f997cda1f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e711046a40e1562d85854ee09cd0a05254cb6463">
+        <dex dex="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.1_68b5c7d076d4d57e7e78a24742ce68710798e924.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="13270ae22369a0d50cb6c560aeca4056f025cae6">
+        <dex dex="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.1_2d1363267b3f31683efa624ac82e7f5ce0c42615.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="19a8ef100d7456c2fde021851a40506c86d14821">
+        <dex dex="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.0.1_09fc9df6cb6ee3d64fb60e87b0a29f7b3226a6d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/jabousk/Developments/android/Android-Parallax-ListView-Sticky/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_c1acc3498b223001e045dd5c6f2aa61aec7c4917.jar" />
     </item>
 
 </items>
